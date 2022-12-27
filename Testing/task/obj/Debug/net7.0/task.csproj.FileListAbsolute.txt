@@ -1,0 +1,15 @@
+/Users/elizavetalobova/Desktop/Testing/task/bin/Debug/net7.0/task
+/Users/elizavetalobova/Desktop/Testing/task/bin/Debug/net7.0/task.deps.json
+/Users/elizavetalobova/Desktop/Testing/task/bin/Debug/net7.0/task.runtimeconfig.json
+/Users/elizavetalobova/Desktop/Testing/task/bin/Debug/net7.0/task.dll
+/Users/elizavetalobova/Desktop/Testing/task/bin/Debug/net7.0/task.pdb
+/Users/elizavetalobova/Desktop/Testing/task/obj/Debug/net7.0/task.csproj.AssemblyReference.cache
+/Users/elizavetalobova/Desktop/Testing/task/obj/Debug/net7.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetalobova/Desktop/Testing/task/obj/Debug/net7.0/task.AssemblyInfoInputs.cache
+/Users/elizavetalobova/Desktop/Testing/task/obj/Debug/net7.0/task.AssemblyInfo.cs
+/Users/elizavetalobova/Desktop/Testing/task/obj/Debug/net7.0/task.csproj.CoreCompileInputs.cache
+/Users/elizavetalobova/Desktop/Testing/task/obj/Debug/net7.0/task.dll
+/Users/elizavetalobova/Desktop/Testing/task/obj/Debug/net7.0/refint/task.dll
+/Users/elizavetalobova/Desktop/Testing/task/obj/Debug/net7.0/task.pdb
+/Users/elizavetalobova/Desktop/Testing/task/obj/Debug/net7.0/task.genruntimeconfig.cache
+/Users/elizavetalobova/Desktop/Testing/task/obj/Debug/net7.0/ref/task.dll
